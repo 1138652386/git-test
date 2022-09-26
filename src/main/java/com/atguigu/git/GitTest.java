@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("hot-fix test");
         System.out.println("push text");
         System.out.println("pull text");
+        System.out.println("同步");
     }
 }
